@@ -6,6 +6,7 @@ It utilises both Forge and LiteLoader to load the following mods:
   - Optifine
   - Shaders
   - Xaero's Minimap
+  - PixelCam
 
 ## Disclaimer
 
@@ -46,3 +47,4 @@ It utilises both Forge and LiteLoader to load the following mods:
 #### [Shaders](http://www.shadersmod.net/)
 #### [Xaero's Minimap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap)
 #### [MCUpdater](http://mcupdater.com/)
+#### [PixelCam] (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2327429-pixelcam-camera-studio-for-minecraft-1-8)
