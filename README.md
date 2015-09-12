@@ -21,7 +21,7 @@ The pack utilises both Forge and LiteLoader to load the following mods:
 
 ### Data Collection and Profiling
 
- We collect absolutely no data on your usage of this ModPack what so ever.  Granted data collection does help improve the quality of software, but we believe in your privacy and freedom and will not be tracking anything.  This includes your Minecraft authentication we will have no part in stealing passwords and usernames.  
+ We collect do not collect any on your usage of this ModPack what so ever.  Granted data collection does help improve the quality of software, but we believe in your privacy and freedom and will not track anything; this includes your MineCraft credentials, and we will have no part in stealing passwords and usernames.  
 
 ## Installation
 
@@ -61,7 +61,7 @@ The automatic installation of the ModPack required inputting your MineCraft cred
  
  - [Shaders](http://www.shadersmod.net/)
  
- - [Xaero's Minimap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap)
+ - [Xaero's Minimap](http://www.planetminecraft.com/mod/xaeros-minimap/)
  
  - [MCUpdater](http://mcupdater.com/)
  
