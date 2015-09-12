@@ -10,7 +10,7 @@ It utilises both Forge and LiteLoader to load the following mods:
 
 ## Disclaimer
 
- The mods in this pack are liable to change due to version oudating and better alternatives being
+ The mods in this pack are liable to change due to version outdating and better alternatives being
  found.
 
 ### Liability
