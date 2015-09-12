@@ -49,16 +49,16 @@ The automatic installation of the ModPack required inputting your MineCraft cred
 
 ## Crediting Mod Creators
 
- [Forge](http://www.minecraftforge.net/forum/)
- [LiteLoader](http://www.liteloader.com/)
- [DaFlight](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293938-daflight-fly-mod-v2-4r9)
- [WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui)
- [Optifine](http://optifine.net/home)
- [Shaders](http://www.shadersmod.net/)
- [Xaero's Minimap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap)
- [MCUpdater](http://mcupdater.com/)
- [PixelCam] (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2327429-pixelcam-camera-studio-for-minecraft-1-8)
- [MCUpdater] (http://mcupdater.com/)
+ -[Forge](http://www.minecraftforge.net/forum/)
+ -[LiteLoader](http://www.liteloader.com/)
+ -[DaFlight](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293938-daflight-fly-mod-v2-4r9)
+ -[WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui)
+ -[Optifine](http://optifine.net/home)
+ -[Shaders](http://www.shadersmod.net/)
+ -[Xaero's Minimap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2379024-xaeros-minimap)
+ -[MCUpdater](http://mcupdater.com/)
+ -[PixelCam] (http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2327429-pixelcam-camera-studio-for-minecraft-1-8)
+ -[MCUpdater] (http://mcupdater.com/)
  
 ## Note
 
