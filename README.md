@@ -23,7 +23,17 @@ The pack utilises both Forge and LiteLoader to load the following mods:
 
  We collect absolutely no data on your usage of this ModPack what so ever.  Granted data collection does help improve the quality of software, but we believe in your privacy and freedom and will not be tracking anything.  This includes your Minecraft authentication we will have no part in stealing passwords and usernames.  
 
-## Installation [Pending Changes to a OneClick solution]
+## Installation
+
+###Automatic
+
+The automatic installation of the ModPack required inputting your MineCraft credentials. The credentials are not stored and are only relayed to the Mojang servers. Any "hacking" of your client is not affiliated with the Athion Project.
+
+   1. Run the "Athion ModPack.jar" file
+   2. Click "Update" in the bottom right of your screen
+   3. Once it has finished, click "Launch Minecraft"
+
+###Manual
 
    1. Extract the contents of this folder into a destination of your choosing
    2. Run the file "Forge.jar" file and select "Install Client", making sure it runs correctly
