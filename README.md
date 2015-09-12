@@ -1,6 +1,6 @@
 # This is the official Creative ModPack endorsed by the Athion Project
 
-It utilises both Forge and LiteLoader to load the following mods:
+The pack utilises both Forge and LiteLoader to load the following mods:
   - DaFlight
   - WorldEditCUI
   - Optifine
