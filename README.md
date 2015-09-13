@@ -17,7 +17,7 @@ The pack utilises both Forge and LiteLoader to load the following mods:
 
  Utilizing this ModPack means that you agree that we are not liable with for damage to your computer or Minecraft installation encountered during the use of this ModPack, nor do we claim any rights to the mods themselves with full credit going to the mod makers.
 
- We are operating and composing this ModPack under the assumption that if the binaries required these mods are provided to the public for public use.  If you disagree with how we've presented one of your mods please be sure to contact us directly and we will remove your mod in lieu of finding a better solution.
+ We are operating and composing this ModPack under the assumption that if due credit is given, then given they are available to the public, they can be used.  If you disagree with how we've presented one of your mods please be sure to contact us directly and we will remove your mod in lieu of finding a better solution.
 
 ### Data Collection and Profiling
 
